@@ -11,7 +11,7 @@ def main():
     driver.get("https://adventureenablers.s3.amazonaws.com/Tracking/2021USARANationals/SI/index.html")
     data = driver.execute_script("return getData(5)")
     driver.quit()
-    with open("dirty_data.json", "w") as f:
+    with open("raw_data.json", "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
