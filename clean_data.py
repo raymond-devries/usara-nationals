@@ -25,8 +25,6 @@ def parse_checkpoint_data(raw_data: list):
     return checkpoint_data
 
 
-
-
 def extract_data_from_record(record):
     return {
         "place": int(record[1]),
