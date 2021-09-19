@@ -1927,6 +1927,264 @@
     },
     {
         "place": 8,
+        "team_number": 113,
+        "team_name": "Karta Racing",
+        "team_type": "Coed",
+        "score": 51,
+        "finish_time": 104644,
+        "points": 51,
+        "bonus_penalty": 0,
+        "manual_adjustment": 0,
+        "time_penalty": 0,
+        "checkpoints": [
+            {
+                "name": "A1",
+                "time": 590
+            },
+            {
+                "name": "A2",
+                "time": 994
+            },
+            {
+                "name": "A5",
+                "time": 1486
+            },
+            {
+                "name": "A4",
+                "time": 1806
+            },
+            {
+                "name": "A3",
+                "time": 2274
+            },
+            {
+                "name": "A6",
+                "time": 2808
+            },
+            {
+                "name": "Trans to B",
+                "time": 3643
+            },
+            {
+                "name": "B1",
+                "time": 5132
+            },
+            {
+                "name": "B2",
+                "time": 7099
+            },
+            {
+                "name": "B3",
+                "time": 8534
+            },
+            {
+                "name": "B4",
+                "time": 9926
+            },
+            {
+                "name": "B5",
+                "time": 11697
+            },
+            {
+                "name": "B6",
+                "time": 13993
+            },
+            {
+                "name": "Trans to E",
+                "time": 17712
+            },
+            {
+                "name": "E1",
+                "time": 22727
+            },
+            {
+                "name": "E2",
+                "time": 23468
+            },
+            {
+                "name": "E3",
+                "time": 24510
+            },
+            {
+                "name": "E4",
+                "time": 26187
+            },
+            {
+                "name": "E5",
+                "time": 27017
+            },
+            {
+                "name": "E6",
+                "time": 27919
+            },
+            {
+                "name": "Trans to C",
+                "time": 31757
+            },
+            {
+                "name": "C1",
+                "time": 34279
+            },
+            {
+                "name": "C3",
+                "time": 35404
+            },
+            {
+                "name": "C4",
+                "time": 36615
+            },
+            {
+                "name": "C2",
+                "time": 38115
+            },
+            {
+                "name": "Trans to D",
+                "time": 40412
+            },
+            {
+                "name": "D1",
+                "time": 43044
+            },
+            {
+                "name": "D2",
+                "time": 46146
+            },
+            {
+                "name": "D4",
+                "time": 48350
+            },
+            {
+                "name": "D3",
+                "time": 50341
+            },
+            {
+                "name": "D5",
+                "time": 52647
+            },
+            {
+                "name": "Trans to S2",
+                "time": 53199
+            },
+            {
+                "name": "CP01",
+                "time": 57698
+            },
+            {
+                "name": "CP02",
+                "time": 61363
+            },
+            {
+                "name": "CP03",
+                "time": 63656
+            },
+            {
+                "name": "CP04",
+                "time": 68993
+            },
+            {
+                "name": "CP05",
+                "time": 70761
+            },
+            {
+                "name": "Trans to S3",
+                "time": 72165
+            },
+            {
+                "name": "CP18",
+                "time": 72794
+            },
+            {
+                "name": "CP17",
+                "time": 73233
+            },
+            {
+                "name": "CP16",
+                "time": 73745
+            },
+            {
+                "name": "CP14",
+                "time": 75121
+            },
+            {
+                "name": "CP15",
+                "time": 75928
+            },
+            {
+                "name": "CP06",
+                "time": 77017
+            },
+            {
+                "name": "CP07",
+                "time": 78001
+            },
+            {
+                "name": "CP08",
+                "time": 80674
+            },
+            {
+                "name": "CP09",
+                "time": 81690
+            },
+            {
+                "name": "CP10",
+                "time": 82992
+            },
+            {
+                "name": "CP11",
+                "time": 83721
+            },
+            {
+                "name": "CP12",
+                "time": 84429
+            },
+            {
+                "name": "CP13",
+                "time": 85365
+            },
+            {
+                "name": "CP19",
+                "time": 88063
+            },
+            {
+                "name": "CP20",
+                "time": 88937
+            },
+            {
+                "name": "Trans to S4",
+                "time": 90566
+            },
+            {
+                "name": "CP21",
+                "time": 93057
+            },
+            {
+                "name": "CP22",
+                "time": 94820
+            },
+            {
+                "name": "Trans to S5",
+                "time": 97972
+            },
+            {
+                "name": "CP28",
+                "time": 99620
+            },
+            {
+                "name": "CP29",
+                "time": 101288
+            },
+            {
+                "name": "Trans to Finish",
+                "time": 102776
+            },
+            {
+                "name": "Finish",
+                "time": 104644
+            }
+        ]
+    },
+    {
+        "place": 9,
         "team_number": 393,
         "team_name": "Michigan Racing Addicts",
         "team_type": "Male",
@@ -2200,7 +2458,7 @@
         ]
     },
     {
-        "place": 9,
+        "place": 10,
         "team_number": 176,
         "team_name": "ARGeorgia",
         "team_type": "Coed",
@@ -2450,260 +2708,6 @@
             {
                 "name": "Finish",
                 "time": 106420
-            }
-        ]
-    },
-    {
-        "place": 10,
-        "team_number": 113,
-        "team_name": "Karta Racing",
-        "team_type": "Coed",
-        "score": 49,
-        "finish_time": 104644,
-        "points": 49,
-        "bonus_penalty": 0,
-        "manual_adjustment": 0,
-        "time_penalty": 0,
-        "checkpoints": [
-            {
-                "name": "A1",
-                "time": 590
-            },
-            {
-                "name": "A2",
-                "time": 994
-            },
-            {
-                "name": "A5",
-                "time": 1486
-            },
-            {
-                "name": "A4",
-                "time": 1806
-            },
-            {
-                "name": "A3",
-                "time": 2274
-            },
-            {
-                "name": "A6",
-                "time": 2808
-            },
-            {
-                "name": "Trans to B",
-                "time": 3643
-            },
-            {
-                "name": "B1",
-                "time": 5132
-            },
-            {
-                "name": "B2",
-                "time": 7099
-            },
-            {
-                "name": "B3",
-                "time": 8534
-            },
-            {
-                "name": "B4",
-                "time": 9926
-            },
-            {
-                "name": "B5",
-                "time": 11697
-            },
-            {
-                "name": "B6",
-                "time": 13993
-            },
-            {
-                "name": "Trans to E",
-                "time": 17712
-            },
-            {
-                "name": "E1",
-                "time": 22727
-            },
-            {
-                "name": "E2",
-                "time": 23468
-            },
-            {
-                "name": "E3",
-                "time": 24510
-            },
-            {
-                "name": "E4",
-                "time": 26187
-            },
-            {
-                "name": "E5",
-                "time": 27017
-            },
-            {
-                "name": "E6",
-                "time": 27919
-            },
-            {
-                "name": "Trans to C",
-                "time": 31757
-            },
-            {
-                "name": "C1",
-                "time": 34279
-            },
-            {
-                "name": "C3",
-                "time": 35404
-            },
-            {
-                "name": "C4",
-                "time": 36615
-            },
-            {
-                "name": "C2",
-                "time": 38115
-            },
-            {
-                "name": "Trans to D",
-                "time": 40412
-            },
-            {
-                "name": "D1",
-                "time": 43044
-            },
-            {
-                "name": "D2",
-                "time": 46146
-            },
-            {
-                "name": "D4",
-                "time": 48350
-            },
-            {
-                "name": "D3",
-                "time": 50341
-            },
-            {
-                "name": "D5",
-                "time": 52647
-            },
-            {
-                "name": "Trans to S2",
-                "time": 53199
-            },
-            {
-                "name": "CP01",
-                "time": 57698
-            },
-            {
-                "name": "CP02",
-                "time": 61363
-            },
-            {
-                "name": "CP03",
-                "time": 63656
-            },
-            {
-                "name": "CP04",
-                "time": 68993
-            },
-            {
-                "name": "CP05",
-                "time": 70761
-            },
-            {
-                "name": "Trans to S3",
-                "time": 72165
-            },
-            {
-                "name": "CP18",
-                "time": 72794
-            },
-            {
-                "name": "CP17",
-                "time": 73233
-            },
-            {
-                "name": "CP16",
-                "time": 73745
-            },
-            {
-                "name": "CP14",
-                "time": 75121
-            },
-            {
-                "name": "CP15",
-                "time": 75928
-            },
-            {
-                "name": "CP06",
-                "time": 77017
-            },
-            {
-                "name": "CP07",
-                "time": 78001
-            },
-            {
-                "name": "CP08",
-                "time": 80674
-            },
-            {
-                "name": "CP09",
-                "time": 81690
-            },
-            {
-                "name": "CP10",
-                "time": 82992
-            },
-            {
-                "name": "CP11",
-                "time": 83721
-            },
-            {
-                "name": "CP12",
-                "time": 84429
-            },
-            {
-                "name": "CP13",
-                "time": 85365
-            },
-            {
-                "name": "Trans to S4",
-                "time": 86487
-            },
-            {
-                "name": "Trans to S4",
-                "time": 90566
-            },
-            {
-                "name": "CP21",
-                "time": 93057
-            },
-            {
-                "name": "CP22",
-                "time": 94820
-            },
-            {
-                "name": "Trans to S5",
-                "time": 97972
-            },
-            {
-                "name": "CP28",
-                "time": 99620
-            },
-            {
-                "name": "CP29",
-                "time": 101288
-            },
-            {
-                "name": "Trans to Finish",
-                "time": 102776
-            },
-            {
-                "name": "Finish",
-                "time": 104644
             }
         ]
     },
@@ -3915,6 +3919,244 @@
     },
     {
         "place": 16,
+        "team_number": 101,
+        "team_name": "Strong Machine Adventure Racing",
+        "team_type": "Coed",
+        "score": 46,
+        "finish_time": 107391,
+        "points": 46,
+        "bonus_penalty": 0,
+        "manual_adjustment": 0,
+        "time_penalty": 0,
+        "checkpoints": [
+            {
+                "name": "A1",
+                "time": 545
+            },
+            {
+                "name": "A3",
+                "time": 899
+            },
+            {
+                "name": "A2",
+                "time": 2956
+            },
+            {
+                "name": "A4",
+                "time": 3849
+            },
+            {
+                "name": "A5",
+                "time": 4230
+            },
+            {
+                "name": "A6",
+                "time": 4668
+            },
+            {
+                "name": "Trans to E",
+                "time": 5396
+            },
+            {
+                "name": "E6",
+                "time": 8968
+            },
+            {
+                "name": "E5",
+                "time": 10114
+            },
+            {
+                "name": "E4",
+                "time": 11186
+            },
+            {
+                "name": "E3",
+                "time": 12789
+            },
+            {
+                "name": "Trans to C",
+                "time": 23167
+            },
+            {
+                "name": "C1",
+                "time": 25310
+            },
+            {
+                "name": "C3",
+                "time": 26618
+            },
+            {
+                "name": "C4",
+                "time": 27899
+            },
+            {
+                "name": "C2",
+                "time": 29475
+            },
+            {
+                "name": "Trans to D",
+                "time": 32100
+            },
+            {
+                "name": "D1",
+                "time": 33622
+            },
+            {
+                "name": "D2",
+                "time": 37196
+            },
+            {
+                "name": "D4",
+                "time": 39741
+            },
+            {
+                "name": "D3",
+                "time": 42144
+            },
+            {
+                "name": "D5",
+                "time": 44771
+            },
+            {
+                "name": "Trans to B",
+                "time": 45450
+            },
+            {
+                "name": "B1",
+                "time": 47984
+            },
+            {
+                "name": "B2",
+                "time": 50309
+            },
+            {
+                "name": "B3",
+                "time": 52166
+            },
+            {
+                "name": "B4",
+                "time": 53735
+            },
+            {
+                "name": "B5",
+                "time": 55627
+            },
+            {
+                "name": "Trans to S2",
+                "time": 58191
+            },
+            {
+                "name": "CP01",
+                "time": 63454
+            },
+            {
+                "name": "CP02",
+                "time": 66966
+            },
+            {
+                "name": "CP03",
+                "time": 69663
+            },
+            {
+                "name": "CP04",
+                "time": 73075
+            },
+            {
+                "name": "CP05",
+                "time": 74887
+            },
+            {
+                "name": "Trans to S3",
+                "time": 75934
+            },
+            {
+                "name": "CP06",
+                "time": 78263
+            },
+            {
+                "name": "CP07",
+                "time": 79532
+            },
+            {
+                "name": "CP08",
+                "time": 81015
+            },
+            {
+                "name": "CP09",
+                "time": 82944
+            },
+            {
+                "name": "CP10",
+                "time": 84554
+            },
+            {
+                "name": "CP11",
+                "time": 85615
+            },
+            {
+                "name": "CP12",
+                "time": 86415
+            },
+            {
+                "name": "CP13",
+                "time": 87368
+            },
+            {
+                "name": "CP14",
+                "time": 88553
+            },
+            {
+                "name": "CP15",
+                "time": 89276
+            },
+            {
+                "name": "CP16",
+                "time": 90330
+            },
+            {
+                "name": "CP17",
+                "time": 90946
+            },
+            {
+                "name": "CP18",
+                "time": 91700
+            },
+            {
+                "name": "CP19",
+                "time": 93888
+            },
+            {
+                "name": "CP20",
+                "time": 94633
+            },
+            {
+                "name": "Trans to S4",
+                "time": 96062
+            },
+            {
+                "name": "CP22",
+                "time": 99243
+            },
+            {
+                "name": "Trans to S5",
+                "time": 102268
+            },
+            {
+                "name": "CP28",
+                "time": 104180
+            },
+            {
+                "name": "Trans to Finish",
+                "time": 105667
+            },
+            {
+                "name": "Finish",
+                "time": 107391
+            }
+        ]
+    },
+    {
+        "place": 17,
         "team_number": 400,
         "team_name": "KATANA Adventure",
         "team_type": "Coed",
@@ -4140,240 +4382,6 @@
             {
                 "name": "Finish",
                 "time": 107474
-            }
-        ]
-    },
-    {
-        "place": 17,
-        "team_number": 101,
-        "team_name": "Strong Machine Adventure Racing",
-        "team_type": "Coed",
-        "score": 45,
-        "finish_time": 107391,
-        "points": 45,
-        "bonus_penalty": 0,
-        "manual_adjustment": 0,
-        "time_penalty": 0,
-        "checkpoints": [
-            {
-                "name": "A1",
-                "time": 545
-            },
-            {
-                "name": "A3",
-                "time": 899
-            },
-            {
-                "name": "A2",
-                "time": 2956
-            },
-            {
-                "name": "A4",
-                "time": 3849
-            },
-            {
-                "name": "A6",
-                "time": 4668
-            },
-            {
-                "name": "Trans to E",
-                "time": 5396
-            },
-            {
-                "name": "E6",
-                "time": 8968
-            },
-            {
-                "name": "E5",
-                "time": 10114
-            },
-            {
-                "name": "E4",
-                "time": 11186
-            },
-            {
-                "name": "E3",
-                "time": 12789
-            },
-            {
-                "name": "Trans to C",
-                "time": 23167
-            },
-            {
-                "name": "C1",
-                "time": 25310
-            },
-            {
-                "name": "C3",
-                "time": 26618
-            },
-            {
-                "name": "C4",
-                "time": 27899
-            },
-            {
-                "name": "C2",
-                "time": 29475
-            },
-            {
-                "name": "Trans to D",
-                "time": 32100
-            },
-            {
-                "name": "D1",
-                "time": 33622
-            },
-            {
-                "name": "D2",
-                "time": 37196
-            },
-            {
-                "name": "D4",
-                "time": 39741
-            },
-            {
-                "name": "D3",
-                "time": 42144
-            },
-            {
-                "name": "D5",
-                "time": 44771
-            },
-            {
-                "name": "Trans to B",
-                "time": 45450
-            },
-            {
-                "name": "B1",
-                "time": 47984
-            },
-            {
-                "name": "B2",
-                "time": 50309
-            },
-            {
-                "name": "B3",
-                "time": 52166
-            },
-            {
-                "name": "B4",
-                "time": 53735
-            },
-            {
-                "name": "B5",
-                "time": 55627
-            },
-            {
-                "name": "Trans to S2",
-                "time": 58191
-            },
-            {
-                "name": "CP01",
-                "time": 63454
-            },
-            {
-                "name": "CP02",
-                "time": 66966
-            },
-            {
-                "name": "CP03",
-                "time": 69663
-            },
-            {
-                "name": "CP04",
-                "time": 73075
-            },
-            {
-                "name": "CP05",
-                "time": 74887
-            },
-            {
-                "name": "Trans to S3",
-                "time": 75934
-            },
-            {
-                "name": "CP06",
-                "time": 78263
-            },
-            {
-                "name": "CP07",
-                "time": 79532
-            },
-            {
-                "name": "CP08",
-                "time": 81015
-            },
-            {
-                "name": "CP09",
-                "time": 82944
-            },
-            {
-                "name": "CP10",
-                "time": 84554
-            },
-            {
-                "name": "CP11",
-                "time": 85615
-            },
-            {
-                "name": "CP12",
-                "time": 86415
-            },
-            {
-                "name": "CP13",
-                "time": 87368
-            },
-            {
-                "name": "CP14",
-                "time": 88553
-            },
-            {
-                "name": "CP15",
-                "time": 89276
-            },
-            {
-                "name": "CP16",
-                "time": 90330
-            },
-            {
-                "name": "CP17",
-                "time": 90946
-            },
-            {
-                "name": "CP18",
-                "time": 91700
-            },
-            {
-                "name": "CP19",
-                "time": 93888
-            },
-            {
-                "name": "CP20",
-                "time": 94633
-            },
-            {
-                "name": "Trans to S4",
-                "time": 96062
-            },
-            {
-                "name": "CP22",
-                "time": 99243
-            },
-            {
-                "name": "Trans to S5",
-                "time": 102268
-            },
-            {
-                "name": "CP28",
-                "time": 104180
-            },
-            {
-                "name": "Trans to Finish",
-                "time": 105667
-            },
-            {
-                "name": "Finish",
-                "time": 107391
             }
         ]
     },
@@ -7291,198 +7299,12 @@
     },
     {
         "place": 32,
-        "team_number": 191,
-        "team_name": "Awesome Sauce",
-        "team_type": "Coed",
-        "score": 33,
-        "finish_time": 104391,
-        "points": 33,
-        "bonus_penalty": 0,
-        "manual_adjustment": 0,
-        "time_penalty": 0,
-        "checkpoints": [
-            {
-                "name": "A1",
-                "time": 854
-            },
-            {
-                "name": "A3",
-                "time": 1322
-            },
-            {
-                "name": "A2",
-                "time": 1635
-            },
-            {
-                "name": "A4",
-                "time": 2776
-            },
-            {
-                "name": "A5",
-                "time": 2421
-            },
-            {
-                "name": "A6",
-                "time": 3528
-            },
-            {
-                "name": "Trans to C",
-                "time": 4465
-            },
-            {
-                "name": "C1",
-                "time": 7218
-            },
-            {
-                "name": "C3",
-                "time": 8449
-            },
-            {
-                "name": "C4",
-                "time": 9854
-            },
-            {
-                "name": "C2",
-                "time": 11503
-            },
-            {
-                "name": "Trans to D",
-                "time": 13946
-            },
-            {
-                "name": "D1",
-                "time": 16144
-            },
-            {
-                "name": "D2",
-                "time": 19373
-            },
-            {
-                "name": "D4",
-                "time": 22186
-            },
-            {
-                "name": "D3",
-                "time": 24084
-            },
-            {
-                "name": "D5",
-                "time": 27141
-            },
-            {
-                "name": "Trans to E",
-                "time": 27706
-            },
-            {
-                "name": "E1",
-                "time": 35227
-            },
-            {
-                "name": "E2",
-                "time": 36184
-            },
-            {
-                "name": "E3",
-                "time": 38561
-            },
-            {
-                "name": "E6",
-                "time": 39559
-            },
-            {
-                "name": "Trans to B",
-                "time": 44720
-            },
-            {
-                "name": "B1",
-                "time": 48800
-            },
-            {
-                "name": "B5",
-                "time": 50451
-            },
-            {
-                "name": "Trans to S2",
-                "time": 56488
-            },
-            {
-                "name": "CP01",
-                "time": 60962
-            },
-            {
-                "name": "CP02",
-                "time": 65511
-            },
-            {
-                "name": "CP03",
-                "time": 71225
-            },
-            {
-                "name": "Trans to S3",
-                "time": 77632
-            },
-            {
-                "name": "CP18",
-                "time": 78642
-            },
-            {
-                "name": "CP17",
-                "time": 79233
-            },
-            {
-                "name": "CP16",
-                "time": 82033
-            },
-            {
-                "name": "CP15",
-                "time": 82922
-            },
-            {
-                "name": "CP14",
-                "time": 83680
-            },
-            {
-                "name": "CP13",
-                "time": 84745
-            },
-            {
-                "name": "Trans to S4",
-                "time": 86120
-            },
-            {
-                "name": "CP22",
-                "time": 89989
-            },
-            {
-                "name": "CP23",
-                "time": 93361
-            },
-            {
-                "name": "Trans to S5",
-                "time": 96777
-            },
-            {
-                "name": "CP29",
-                "time": 100754
-            },
-            {
-                "name": "Trans to Finish",
-                "time": 101834
-            },
-            {
-                "name": "Finish",
-                "time": 104391
-            }
-        ]
-    },
-    {
-        "place": 33,
         "team_number": 301,
         "team_name": "Eyes of the World",
         "team_type": "Male",
-        "score": 32,
+        "score": 33,
         "finish_time": 104184,
-        "points": 32,
+        "points": 33,
         "bonus_penalty": 0,
         "manual_adjustment": 0,
         "time_penalty": 0,
@@ -7502,6 +7324,10 @@
             {
                 "name": "A4",
                 "time": 4324
+            },
+            {
+                "name": "A5",
+                "time": 4830
             },
             {
                 "name": "A2",
@@ -7654,6 +7480,192 @@
             {
                 "name": "Finish",
                 "time": 104184
+            }
+        ]
+    },
+    {
+        "place": 33,
+        "team_number": 191,
+        "team_name": "Awesome Sauce",
+        "team_type": "Coed",
+        "score": 32,
+        "finish_time": 118791,
+        "points": 33,
+        "bonus_penalty": -1,
+        "manual_adjustment": -1,
+        "time_penalty": 14400,
+        "checkpoints": [
+            {
+                "name": "A1",
+                "time": 15254
+            },
+            {
+                "name": "A3",
+                "time": 15722
+            },
+            {
+                "name": "A2",
+                "time": 16035
+            },
+            {
+                "name": "A4",
+                "time": 17176
+            },
+            {
+                "name": "A5",
+                "time": 16821
+            },
+            {
+                "name": "A6",
+                "time": 17928
+            },
+            {
+                "name": "Trans to C",
+                "time": 18865
+            },
+            {
+                "name": "C1",
+                "time": 21618
+            },
+            {
+                "name": "C3",
+                "time": 22849
+            },
+            {
+                "name": "C4",
+                "time": 24254
+            },
+            {
+                "name": "C2",
+                "time": 25903
+            },
+            {
+                "name": "Trans to D",
+                "time": 28346
+            },
+            {
+                "name": "D1",
+                "time": 30544
+            },
+            {
+                "name": "D2",
+                "time": 33773
+            },
+            {
+                "name": "D4",
+                "time": 36586
+            },
+            {
+                "name": "D3",
+                "time": 38484
+            },
+            {
+                "name": "D5",
+                "time": 41541
+            },
+            {
+                "name": "Trans to E",
+                "time": 42106
+            },
+            {
+                "name": "E1",
+                "time": 49627
+            },
+            {
+                "name": "E2",
+                "time": 50584
+            },
+            {
+                "name": "E3",
+                "time": 52961
+            },
+            {
+                "name": "E6",
+                "time": 53959
+            },
+            {
+                "name": "Trans to B",
+                "time": 59120
+            },
+            {
+                "name": "B1",
+                "time": 63200
+            },
+            {
+                "name": "B5",
+                "time": 64851
+            },
+            {
+                "name": "Trans to S2",
+                "time": 70888
+            },
+            {
+                "name": "CP01",
+                "time": 75362
+            },
+            {
+                "name": "CP02",
+                "time": 79911
+            },
+            {
+                "name": "CP03",
+                "time": 85625
+            },
+            {
+                "name": "Trans to S3",
+                "time": 92032
+            },
+            {
+                "name": "CP18",
+                "time": 93042
+            },
+            {
+                "name": "CP17",
+                "time": 93633
+            },
+            {
+                "name": "CP16",
+                "time": 96433
+            },
+            {
+                "name": "CP15",
+                "time": 97322
+            },
+            {
+                "name": "CP14",
+                "time": 98080
+            },
+            {
+                "name": "CP13",
+                "time": 99145
+            },
+            {
+                "name": "Trans to S4",
+                "time": 100520
+            },
+            {
+                "name": "CP22",
+                "time": 104389
+            },
+            {
+                "name": "CP23",
+                "time": 107761
+            },
+            {
+                "name": "Trans to S5",
+                "time": 111177
+            },
+            {
+                "name": "CP29",
+                "time": 115154
+            },
+            {
+                "name": "Trans to Finish",
+                "time": 116234
+            },
+            {
+                "name": "Finish",
+                "time": 118791
             }
         ]
     },
@@ -8149,6 +8161,152 @@
     },
     {
         "place": 37,
+        "team_number": 117,
+        "team_name": "Good Nuff",
+        "team_type": "Coed",
+        "score": 27,
+        "finish_time": 65087,
+        "points": 27,
+        "bonus_penalty": 0,
+        "manual_adjustment": 0,
+        "time_penalty": 0,
+        "checkpoints": [
+            {
+                "name": "A1",
+                "time": 526
+            },
+            {
+                "name": "A3",
+                "time": 914
+            },
+            {
+                "name": "A2",
+                "time": 1236
+            },
+            {
+                "name": "A5",
+                "time": 1735
+            },
+            {
+                "name": "A4",
+                "time": 2108
+            },
+            {
+                "name": "A6",
+                "time": 2756
+            },
+            {
+                "name": "Trans to B",
+                "time": 3368
+            },
+            {
+                "name": "B1",
+                "time": 5279
+            },
+            {
+                "name": "B2",
+                "time": 7508
+            },
+            {
+                "name": "B3",
+                "time": 8991
+            },
+            {
+                "name": "B4",
+                "time": 10490
+            },
+            {
+                "name": "B5",
+                "time": 12257
+            },
+            {
+                "name": "B6",
+                "time": 14624
+            },
+            {
+                "name": "Trans to E",
+                "time": 18483
+            },
+            {
+                "name": "E5",
+                "time": 23260
+            },
+            {
+                "name": "E4",
+                "time": 24298
+            },
+            {
+                "name": "E6",
+                "time": 25329
+            },
+            {
+                "name": "E3",
+                "time": 26567
+            },
+            {
+                "name": "E2",
+                "time": 27630
+            },
+            {
+                "name": "E1",
+                "time": 29007
+            },
+            {
+                "name": "Trans to C",
+                "time": 33194
+            },
+            {
+                "name": "C1",
+                "time": 35407
+            },
+            {
+                "name": "C3",
+                "time": 36578
+            },
+            {
+                "name": "C4",
+                "time": 37873
+            },
+            {
+                "name": "C2",
+                "time": 39469
+            },
+            {
+                "name": "Trans to D",
+                "time": 42921
+            },
+            {
+                "name": "D1",
+                "time": 43830
+            },
+            {
+                "name": "D2",
+                "time": 49235
+            },
+            {
+                "name": "D4",
+                "time": 52995
+            },
+            {
+                "name": "D3",
+                "time": 55541
+            },
+            {
+                "name": "D5",
+                "time": 58929
+            },
+            {
+                "name": "Trans to S2",
+                "time": 59748
+            },
+            {
+                "name": "Finish",
+                "time": 65087
+            }
+        ]
+    },
+    {
+        "place": 38,
         "team_number": 120,
         "team_name": "Past R Prime",
         "team_type": "Coed",
@@ -8298,7 +8456,7 @@
         ]
     },
     {
-        "place": 38,
+        "place": 39,
         "team_number": 206,
         "team_name": "BRF Barf Racing",
         "team_type": "Female",
@@ -8448,148 +8606,6 @@
             {
                 "name": "Finish",
                 "time": 104071
-            }
-        ]
-    },
-    {
-        "place": 39,
-        "team_number": 117,
-        "team_name": "Good Nuff",
-        "team_type": "Coed",
-        "score": 26,
-        "finish_time": 65087,
-        "points": 26,
-        "bonus_penalty": 0,
-        "manual_adjustment": 0,
-        "time_penalty": 0,
-        "checkpoints": [
-            {
-                "name": "A1",
-                "time": 526
-            },
-            {
-                "name": "A3",
-                "time": 914
-            },
-            {
-                "name": "A2",
-                "time": 1236
-            },
-            {
-                "name": "A5",
-                "time": 1735
-            },
-            {
-                "name": "A4",
-                "time": 2108
-            },
-            {
-                "name": "A6",
-                "time": 2756
-            },
-            {
-                "name": "Trans to B",
-                "time": 3368
-            },
-            {
-                "name": "B1",
-                "time": 5279
-            },
-            {
-                "name": "B2",
-                "time": 7508
-            },
-            {
-                "name": "B3",
-                "time": 8991
-            },
-            {
-                "name": "B4",
-                "time": 10490
-            },
-            {
-                "name": "B5",
-                "time": 12257
-            },
-            {
-                "name": "B6",
-                "time": 14624
-            },
-            {
-                "name": "Trans to E",
-                "time": 18483
-            },
-            {
-                "name": "E5",
-                "time": 23260
-            },
-            {
-                "name": "E4",
-                "time": 24298
-            },
-            {
-                "name": "E6",
-                "time": 25329
-            },
-            {
-                "name": "E3",
-                "time": 26567
-            },
-            {
-                "name": "E2",
-                "time": 27630
-            },
-            {
-                "name": "E1",
-                "time": 29007
-            },
-            {
-                "name": "Trans to C",
-                "time": 33194
-            },
-            {
-                "name": "C1",
-                "time": 35407
-            },
-            {
-                "name": "C3",
-                "time": 36578
-            },
-            {
-                "name": "C4",
-                "time": 37873
-            },
-            {
-                "name": "C2",
-                "time": 39469
-            },
-            {
-                "name": "Trans to D",
-                "time": 42921
-            },
-            {
-                "name": "D2",
-                "time": 49235
-            },
-            {
-                "name": "D4",
-                "time": 52995
-            },
-            {
-                "name": "D3",
-                "time": 55541
-            },
-            {
-                "name": "D5",
-                "time": 58929
-            },
-            {
-                "name": "Trans to S2",
-                "time": 59748
-            },
-            {
-                "name": "Finish",
-                "time": 65087
             }
         ]
     },
@@ -9019,7 +9035,7 @@
         "place": 43,
         "team_number": 192,
         "team_name": "Controlled KAOS",
-        "team_type": "Male",
+        "team_type": "Coed",
         "score": 24,
         "finish_time": 106922,
         "points": 24,
